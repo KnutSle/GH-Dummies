@@ -34,3 +34,6 @@ By using this repository, you'll learn:
 - [GitHub Skills](https://skills.github.com/)
 
 Happy Learning! Feel free to experiment and make mistakes - that's how we learn! 🌟
+GH for "GH for Dummies kurs"
+
+🇳🇴
