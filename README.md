@@ -1,2 +1,3 @@
 # GH-Dummies
-GH for GH for Dummies kurs
+GH for "GH for Dummies kurs"
+🇳🇴
